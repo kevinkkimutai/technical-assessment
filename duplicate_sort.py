@@ -1,7 +1,5 @@
-
 # Question 1: Programming Fundamentals
 # Removes duplicates from a list of integers and sorts the result ascending.
-
 
 def duplicate_and_sort(numbers):
     # a sorted list with duplicate values removed.
