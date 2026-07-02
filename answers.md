@@ -1,7 +1,7 @@
 # Technical Assessment Submission
 
-Written answers are in [`answers.md`](./answers.md). Below is how to actually
-run the code for each question, in case you want to try it yourself.
+Below is how to actually
+run the code for each question
 
 
 ## Question 1 — Programming Fundamentals
